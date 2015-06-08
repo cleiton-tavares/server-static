@@ -4,7 +4,7 @@
 
 In terminal:
 ```
-$ sudo npm install [ LINUX ]
+$ sudo npm install [ LINUX / OSX ]
 $ npm install -g [ WINDOWS ]
 ```
 
@@ -19,4 +19,4 @@ $ npm install -g [ WINDOWS ]
 
 ## Copyright and License
 
-Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
