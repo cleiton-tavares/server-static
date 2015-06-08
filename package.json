@@ -1,8 +1,24 @@
 {
   "name": "server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "connect": "*",
     "serve-static": "*"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "## Getting Started",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cleiton-tavares/server-static.git"
+  },
+  "author": "@cleiton-tav",
+  "license": "APACHE 2.0",
+  "bugs": {
+    "url": "https://github.com/cleiton-tavares/server-static/issues"
+  },
+  "homepage": "https://github.com/cleiton-tavares/server-static"
 }
