@@ -14,7 +14,7 @@ $ npm install -g [ WINDOWS ]
 
 ## Creator
 
-@cleitontavares
+@cleiton_tav
 
 
 ## Copyright and License
