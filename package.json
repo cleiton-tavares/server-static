@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "connect": "*",
+    "open": "0.0.5",
+    "readline": "^1.0.1",
     "serve-static": "*"
   },
   "scripts": {
