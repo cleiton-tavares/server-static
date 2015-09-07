@@ -4,8 +4,11 @@
 
 In terminal:
 ```
+$ git clone https://github.com/cleiton-tavares/server-static.git
+$ cd server-static
 $ sudo npm install [ LINUX / OSX ]
-$ npm install -g [ WINDOWS ]
+$ npm install [ WINDOWS ]
+$ node server
 ```
 
 ## Bugs and Issues
